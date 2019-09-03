@@ -20,7 +20,10 @@
     "nodemon": "^1.19.1"
   },
   "dependencies": {
+    "express": "^4.17.1",
     "knex": "^0.19.3",
-    "sqlite3": "^4.1.0"
+    "latest-version": "^5.1.0",
+    "sqlite3": "^4.1.0",
+    "uuid": "^3.3.3"
   }
 }
